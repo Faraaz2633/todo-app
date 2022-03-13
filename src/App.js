@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { nanoid } from "nanoid";
 import './App.css';
 import Todo from './Todo/Todo';
 
